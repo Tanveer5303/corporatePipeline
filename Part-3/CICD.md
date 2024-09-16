@@ -46,7 +46,7 @@ After installing these plugins, you may need to configure them according to your
 ## Configure Above Plugins in Jenkins
 
 ## Pipeline 
-
+'''
 pipeline {
     agent any
     tools{
@@ -182,6 +182,6 @@ pipeline {
     }
         }   
 }
-
+...
 
 
